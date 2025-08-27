@@ -12,9 +12,6 @@
 
 Welcome to Awesome-Deep-Research! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of Agentic Deep Research. We've meticulously curated a collection of resources for you.
 
-<p align="center">
-  <img src="./Assets/DeepResearch.png" alt="DeepResearch Framework" width="80%" />
-</p>
 
 Whether you're a researcher, developer, or enthusiast, this repository is your gateway to exploring the fascinating intersection of artificial intelligence and autonomous agents 🔥🔥🔥.
 
@@ -97,9 +94,6 @@ Whether you're a researcher, developer, or enthusiast, this repository is your g
 
 ## Benchmarks and Applications
 
-<p align="center">
-  <img src="./Assets/bench.png" alt="Benchmarks Plot" width="80%" />
-</p>
 
 - Humanity's Last Exam [[Paper]](https://arxiv.org/abs/2501.14249) [[Code]](https://github.com/centerforaisafety/hle) ![GitHub Repo stars](https://img.shields.io/github/stars/centerforaisafety/hle?style=social)
 - BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents [[Paper]](https://arxiv.org/pdf/2504.12516) [[Code]](https://github.com/openai/simple-evals) ![GitHub Repo stars](https://img.shields.io/github/stars/openai/simple-evals?style=social)
